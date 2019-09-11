@@ -223,3 +223,20 @@ show(fc1)
 
     <matplotlib.axes._subplots.AxesSubplot at 0xf88bd9cb70>
 
+### to be continued - creating rgb using VV,VH and VV/VH bands
+### water delineation to study impact
+
+#### references
+--flood delineation using snap and python
+https://www.researchgate.net/publication/327972406_Flood_Delineation_of_Synthetic_Aperture_Radar_data_using_python
+
+--snappy esa forum and communtity
+https://forum.step.esa.int/
+
+--snappy python pre processing
+http://remote-sensing.eu/preprocessing-of-sentinel-1-sar-data-via-snappy-python-module/
+
+--sar interpretation layman
+http://ceos.org/document_management/SEO/DataCube/Laymans_SAR_Interpretation_Guide_2.0.pdf
+
+
