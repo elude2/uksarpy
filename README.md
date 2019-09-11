@@ -1,5 +1,6 @@
 # Sentinel SAR image - Python - Flood Analysis
 
+#### coding is a lot easier with knowledge available - for the list of references scroll to the bottom
 
 ```python
 #import the python modules for sar preprocessing
